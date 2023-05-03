@@ -7,7 +7,7 @@
 - You have to develop an IRC server in C++ 98.
 - You mustn’t develop a client.
 - You mustn’t handle server-to-server communication.
-- Your executable will be run as follows:
+- Your executable will be run as follows: 
 ```./ircserv <port> <password>```
 	- port: The port number on which your IRC server will be listening to for incoming
 IRC connections.
