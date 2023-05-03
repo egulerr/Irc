@@ -46,4 +46,4 @@ Then, launch your irssi client, and connect to the server (locally if you want t
 
 ## Contributors
 - [Salih Burak Coşkun](https://github.com/csalihburak)
-- [Mert Alaşahan](https://github.com/mertflix)
+- [Mert Alaşahan](https://github.com/mertflixs)
